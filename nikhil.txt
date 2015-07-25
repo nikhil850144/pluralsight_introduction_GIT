@@ -1,0 +1,65 @@
+    1  cd "D:\Git repositories\pluralsight learning"
+    2  git log
+    3  rm file2.txt
+    4  rm file2
+    5  git status
+    6  git add -u 
+    7  git status
+    8  vim file3
+    9  ggit status
+   10  git status
+   11  git add file3
+   12  git status
+   13  git status
+   14  git add -a 
+   15  git add -A
+   16  git status
+   17  git commit -m "Commit 6 "
+   18  git status
+   19  log
+   20  git log 
+   21  git readme.txt
+   22  vim readme.txt
+   23  git status
+   24  git checkout readme.txt
+   25  git checkout Readme.txt
+   26  git status
+   27  cat Readme.txt
+   28  vim Readme,txt
+   29  vim Readme.txt
+   30  rm file1.txt
+   31  git status
+   32  git add .
+   33  git add -a
+   34  git add -A
+   35  gist status
+   36  git status
+   37  git reset --hard
+   38  git status
+   39  vm Readme.txt
+   40  git push https://github.com/nikhil850144/pluralsight_introduction_GIT.git
+   41  git push https://github.com/nikhil850144/pluralsight_introduction_GIT.git
+   42  git push -f https://github.com/nikhil850144/pluralsight_introduction_GIT.git
+   43  git status
+   44  history > nikhil.txt
+   45* 
+   46  history > nikhil.txt
+   47  git reset --soft
+   48  gist status
+   49  git status
+   50  git status HEAD~1
+   51  git reset -- soft Head~1
+   52  git status 
+   53  git log
+   54  git add. 
+   55  git add .
+   56  git commit "commit 7"
+   57  git commit -m "commit 7"
+   58  git log
+   59  git reset --soft head~1
+   60  git log
+   61  git status
+   62  git reset --hard
+   63  git status
+   64  git history>nikhil.txt
+   65  history>nikhil.txt
